@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "1.0",
+  "id": "chinese-checkers",
+  "name": "Chinese Checkers",
+  "version": "0.1.1",
+  "type": "game-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "capabilities": {
+    "version": "1",
+    "allowed": [
+      "log"
+    ]
+  },
+  "license": "MIT",
+  "tags": [
+    "checkers",
+    "chinese",
+    "classic",
+    "family"
+  ],
+  "slug": "chinese-checkers",
+  "summary": "Chinese Checkers",
+  "description": "Chinese Checkers",
+  "category": "checkers-draughts",
+  "players": {
+    "min": 2,
+    "max": 6
+  },
+  "coverImage": "media/cover.webp",
+  "credits": [
+    {
+      "id": "credit-bb9a0951-2021-4a35-a717-0ab7b14680b5",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T17:50:23.492Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T17:50:23.492Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-937b6645-545d-4ffb-b1a1-918257e13457",
+      "paths": [
+        "media/screenshot-0.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T17:50:36.157Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T17:50:36.157Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.1861620421803325,
+        "w": 1,
+        "h": 0.7500000000000001
+      }
+    }
+  ]
+}
