@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "chinese-checkers",
   "name": "Chinese Checkers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json"
@@ -10,7 +10,28 @@
   "assets": [
     "media/cover-thumb.webp",
     "media/cover.webp",
-    "media/screenshot-0.webp"
+    "media/screenshot-0.webp",
+    "models/chinese-checkers-board.glb",
+    "models/chinese-checkers-board.meta.json",
+    "models/chinese-checkers-board.prefab.json",
+    "models/chinese-checkers-marble-black.glb",
+    "models/chinese-checkers-marble-black.meta.json",
+    "models/chinese-checkers-marble-blue.glb",
+    "models/chinese-checkers-marble-blue.meta.json",
+    "models/chinese-checkers-marble-green.glb",
+    "models/chinese-checkers-marble-green.meta.json",
+    "models/chinese-checkers-marble-orange.glb",
+    "models/chinese-checkers-marble-orange.meta.json",
+    "models/chinese-checkers-marble-red.glb",
+    "models/chinese-checkers-marble-red.meta.json",
+    "models/chinese-checkers-marble-yellow.glb",
+    "models/chinese-checkers-marble-yellow.meta.json",
+    "textures/chinese-checkers-board/bl-leather-metallic-bl-leather-roughness-173b57ff.jpg",
+    "textures/chinese-checkers-board/bl-leather-normal-9857f1c2.jpg",
+    "textures/chinese-checkers-board/leather-basecolor-rgb2-03c2e113.jpg",
+    "textures/chinese-checkers-board/wood008-4k-jpg-color-52704a95.jpg",
+    "textures/chinese-checkers-board/wood008-4k-jpg-normalgl-619789a1.jpg",
+    "textures/chinese-checkers-board/wood008-4k-jpg-roughness-df1dd6f1.jpg"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
@@ -62,6 +83,117 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-09-22T17:50:36.157Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-d8d6a28f-69c2-4a33-a4fc-e76c1ae8feb2",
+      "paths": [
+        "models/chinese-checkers-board.glb",
+        "models/chinese-checkers-board.meta.json",
+        "textures/chinese-checkers-board/bl-leather-metallic-bl-leather-roughness-173b57ff.jpg",
+        "textures/chinese-checkers-board/bl-leather-normal-9857f1c2.jpg",
+        "textures/chinese-checkers-board/leather-basecolor-rgb2-03c2e113.jpg",
+        "textures/chinese-checkers-board/wood008-4k-jpg-color-52704a95.jpg",
+        "textures/chinese-checkers-board/wood008-4k-jpg-normalgl-619789a1.jpg",
+        "textures/chinese-checkers-board/wood008-4k-jpg-roughness-df1dd6f1.jpg"
+      ],
+      "origin": "own-work",
+      "title": "Chinese Checkers Board",
+      "recordedAt": "2026-09-22T22:04:07.221Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T22:04:07.221Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-ef845d03-be14-4cad-aa4c-efe40658ea18",
+      "paths": [
+        "models/chinese-checkers-marble-black.glb",
+        "models/chinese-checkers-marble-black.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "Chinese Checkers Marbles",
+      "recordedAt": "2026-09-22T22:20:34.643Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T22:20:34.643Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-08c706e6-4656-49ae-ae05-02500cbf0d61",
+      "paths": [
+        "models/chinese-checkers-marble-blue.glb",
+        "models/chinese-checkers-marble-blue.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "Chinese Checkers Marbles",
+      "recordedAt": "2026-09-22T22:21:43.274Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T22:21:43.274Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-7bdb01b1-e7a4-4f72-945f-57fbcd3496c7",
+      "paths": [
+        "models/chinese-checkers-marble-green.glb",
+        "models/chinese-checkers-marble-green.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "Chinese Checkers Marbles",
+      "recordedAt": "2026-09-22T22:21:52.828Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T22:21:52.828Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-a0e83fd4-5d0d-4155-ba50-5757d566f67a",
+      "paths": [
+        "models/chinese-checkers-marble-orange.glb",
+        "models/chinese-checkers-marble-orange.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "Chinese Checkers Marbles",
+      "recordedAt": "2026-09-22T22:22:05.110Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T22:22:05.110Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-9042bdda-d025-4ea6-9cc7-8b28234ad81e",
+      "paths": [
+        "models/chinese-checkers-marble-red.glb",
+        "models/chinese-checkers-marble-red.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "Chinese Checkers Marbles",
+      "recordedAt": "2026-09-22T22:22:17.932Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T22:22:17.932Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-6955a2ec-cf9f-4b4a-af60-c57817fbb27c",
+      "paths": [
+        "models/chinese-checkers-marble-yellow.glb",
+        "models/chinese-checkers-marble-yellow.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "Chinese Checkers Marbles",
+      "recordedAt": "2026-09-22T22:22:29.250Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T22:22:29.250Z",
         "signedName": "Matt Larson"
       }
     }

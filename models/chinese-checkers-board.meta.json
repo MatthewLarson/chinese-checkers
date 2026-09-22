@@ -1,0 +1,21 @@
+{
+  "materialSlots": {
+    "WALNUT_06": "mat-d3090075-15a0-4b84-b649-d66329c711fd",
+    "Black Fine-Grain Leather": "mat-24c6d2e2-bbcf-41ea-9482-51346db81cb2"
+  },
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "shape": "mesh",
+        "source": "render"
+      }
+    ]
+  }
+}

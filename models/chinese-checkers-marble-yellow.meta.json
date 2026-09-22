@@ -1,0 +1,15 @@
+{
+  "materialSlots": {
+    "Marble_Yellow": "mat-9f46771b-5a1c-43e9-926a-d21863c0747a"
+  },
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "shape": "sphere",
+        "radius": 0.022965895012021065
+      }
+    ]
+  }
+}
