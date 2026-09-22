@@ -2,6 +2,102 @@
   "version": 1,
   "rendererVersion": 1,
   "entries": {
+    "@materials/mat-24c6d2e2-bbcf-41ea-9482-51346db81cb2": {
+      "inputHash": "8105a1a1125f5b8f",
+      "file": "thumbnails/@materials/mat-24c6d2e2-bbcf-41ea-9482-51346db81cb2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-4a4d13b4-38f7-452c-a79c-222d5d2244be": {
+      "inputHash": "b688543ddf56298e",
+      "file": "thumbnails/@materials/mat-4a4d13b4-38f7-452c-a79c-222d5d2244be.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-53c495f4-51f5-4230-94e1-f54dcf66c9e9": {
+      "inputHash": "eacd59b1b43b24af",
+      "file": "thumbnails/@materials/mat-53c495f4-51f5-4230-94e1-f54dcf66c9e9.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-5c5f5531-8c09-49d4-b4a3-fd25c648bdef": {
+      "inputHash": "8344f4c0c05a7201",
+      "file": "thumbnails/@materials/mat-5c5f5531-8c09-49d4-b4a3-fd25c648bdef.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-80326d57-4ee9-47ba-a1d0-76a5e128a390": {
+      "inputHash": "545f164dae4fb9ee",
+      "file": "thumbnails/@materials/mat-80326d57-4ee9-47ba-a1d0-76a5e128a390.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-85ba8f3b-6030-4db9-8eb1-7b422f578343": {
+      "inputHash": "a8995e2c74d5679d",
+      "file": "thumbnails/@materials/mat-85ba8f3b-6030-4db9-8eb1-7b422f578343.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-8611723f-ed8a-4e4d-b682-01c38c0e84d2": {
+      "inputHash": "8344f4c0c05a7201",
+      "file": "thumbnails/@materials/mat-8611723f-ed8a-4e4d-b682-01c38c0e84d2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-992317b4-d34a-48b3-9269-1a3ffae6c5b4": {
+      "inputHash": "a8995e2c74d5679d",
+      "file": "thumbnails/@materials/mat-992317b4-d34a-48b3-9269-1a3ffae6c5b4.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-9d7cd5d9-f5c5-409e-86d2-a07d6241ccef": {
+      "inputHash": "545f164dae4fb9ee",
+      "file": "thumbnails/@materials/mat-9d7cd5d9-f5c5-409e-86d2-a07d6241ccef.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-9f1b57d7-fc86-413e-b406-c7deff7fe1d3": {
+      "inputHash": "8105a1a1125f5b8f",
+      "file": "thumbnails/@materials/mat-9f1b57d7-fc86-413e-b406-c7deff7fe1d3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-9f46771b-5a1c-43e9-926a-d21863c0747a": {
+      "inputHash": "124b8b37b220a49d",
+      "file": "thumbnails/@materials/mat-9f46771b-5a1c-43e9-926a-d21863c0747a.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-b81cc4f5-6386-41bb-b11d-7b4c68bdd9b2": {
+      "inputHash": "b688543ddf56298e",
+      "file": "thumbnails/@materials/mat-b81cc4f5-6386-41bb-b11d-7b4c68bdd9b2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ca5155ae-53f7-4a28-9aed-d79edb061852": {
+      "inputHash": "124b8b37b220a49d",
+      "file": "thumbnails/@materials/mat-ca5155ae-53f7-4a28-9aed-d79edb061852.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-d3090075-15a0-4b84-b649-d66329c711fd": {
+      "inputHash": "eacd59b1b43b24af",
+      "file": "thumbnails/@materials/mat-d3090075-15a0-4b84-b649-d66329c711fd.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ea946754-12df-4bab-b771-e37685e34310": {
+      "inputHash": "13107c7dd85c300a",
+      "file": "thumbnails/@materials/mat-ea946754-12df-4bab-b771-e37685e34310.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-fb44e70c-6e57-43d3-8f55-66116083303a": {
+      "inputHash": "13107c7dd85c300a",
+      "file": "thumbnails/@materials/mat-fb44e70c-6e57-43d3-8f55-66116083303a.webp",
+      "width": 256,
+      "height": 256
+    },
     "media/cover-thumb.webp": {
       "inputHash": "ce2077a0b924e05d",
       "file": "thumbnails/media/cover-thumb.webp.webp",
@@ -19,6 +115,126 @@
       "file": "thumbnails/media/screenshot-0.webp.webp",
       "width": 256,
       "height": 144
+    },
+    "models/chinese-checkers-board.glb": {
+      "inputHash": "8d363e2138a7ce14",
+      "file": "thumbnails/models/chinese-checkers-board.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chinese-checkers-marble-black.glb": {
+      "inputHash": "5b517673026ecdac",
+      "file": "thumbnails/models/chinese-checkers-marble-black.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chinese-checkers-marble-blue.glb": {
+      "inputHash": "0aa556b70fd93e9f",
+      "file": "thumbnails/models/chinese-checkers-marble-blue.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chinese-checkers-marble-green.glb": {
+      "inputHash": "a145319917b3d93e",
+      "file": "thumbnails/models/chinese-checkers-marble-green.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chinese-checkers-marble-orange.glb": {
+      "inputHash": "82b663a2a3d657d0",
+      "file": "thumbnails/models/chinese-checkers-marble-orange.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chinese-checkers-marble-red.glb": {
+      "inputHash": "3c2ef5c1c4e2c21d",
+      "file": "thumbnails/models/chinese-checkers-marble-red.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chinese-checkers-marble-yellow.glb": {
+      "inputHash": "c5f669e37a140be1",
+      "file": "thumbnails/models/chinese-checkers-marble-yellow.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese-checkers-board.glb": {
+      "inputHash": "f17701355944e52a",
+      "file": "thumbnails/originals/chinese-checkers-board.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese-checkers-marble-black.glb": {
+      "inputHash": "90bfd902ea68bad6",
+      "file": "thumbnails/originals/chinese-checkers-marble-black.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese-checkers-marble-blue.glb": {
+      "inputHash": "3b47c70fc04fd3f0",
+      "file": "thumbnails/originals/chinese-checkers-marble-blue.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese-checkers-marble-green.glb": {
+      "inputHash": "70357c8c491bc0e7",
+      "file": "thumbnails/originals/chinese-checkers-marble-green.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese-checkers-marble-orange.glb": {
+      "inputHash": "4f7e3fff74ad4919",
+      "file": "thumbnails/originals/chinese-checkers-marble-orange.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese-checkers-marble-red.glb": {
+      "inputHash": "a11e8962cf94a056",
+      "file": "thumbnails/originals/chinese-checkers-marble-red.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese-checkers-marble-yellow.glb": {
+      "inputHash": "ccc24a142b3ffa12",
+      "file": "thumbnails/originals/chinese-checkers-marble-yellow.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-checkers-board/bl-leather-metallic-bl-leather-roughness-173b57ff.jpg": {
+      "inputHash": "848141beb82a063a",
+      "file": "thumbnails/textures/chinese-checkers-board/bl-leather-metallic-bl-leather-roughness-173b57ff.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-checkers-board/bl-leather-normal-9857f1c2.jpg": {
+      "inputHash": "c6ca464ef44c50fe",
+      "file": "thumbnails/textures/chinese-checkers-board/bl-leather-normal-9857f1c2.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-checkers-board/leather-basecolor-rgb2-03c2e113.jpg": {
+      "inputHash": "e5a2c4dfe2696eab",
+      "file": "thumbnails/textures/chinese-checkers-board/leather-basecolor-rgb2-03c2e113.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-checkers-board/wood008-4k-jpg-color-52704a95.jpg": {
+      "inputHash": "8af42b3d9a943842",
+      "file": "thumbnails/textures/chinese-checkers-board/wood008-4k-jpg-color-52704a95.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-checkers-board/wood008-4k-jpg-normalgl-619789a1.jpg": {
+      "inputHash": "356085495a4dc3f3",
+      "file": "thumbnails/textures/chinese-checkers-board/wood008-4k-jpg-normalgl-619789a1.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-checkers-board/wood008-4k-jpg-roughness-df1dd6f1.jpg": {
+      "inputHash": "799f357b7a2f5a2d",
+      "file": "thumbnails/textures/chinese-checkers-board/wood008-4k-jpg-roughness-df1dd6f1.jpg.webp",
+      "width": 256,
+      "height": 256
     }
   }
 }
