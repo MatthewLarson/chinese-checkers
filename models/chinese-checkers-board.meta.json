@@ -13,10 +13,9 @@
           "y": 0,
           "z": 0
         },
-        "shape": "convexHull",
+        "shape": "mesh",
         "source": "baked",
-        "bakedPath": "models/chinese-checkers-board.collider.glb",
-        "simplifyRatio": 1
+        "bakedPath": "models/chinese-checkers-board.collider.glb"
       }
     ]
   }
