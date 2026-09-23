@@ -1,6 +1,7 @@
 {
   "kind": "token",
   "material": "tile",
+  "originAuthored": true,
   "mass": 0.13,
   "friction": 0.7,
   "restitution": 0.15,
