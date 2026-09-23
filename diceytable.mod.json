@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "chinese-checkers",
   "name": "Chinese Checkers",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -12,6 +12,7 @@
     "media/cover-thumb.webp",
     "media/cover.webp",
     "media/screenshot-0.webp",
+    "models/chinese-checkers-board.collider.glb",
     "models/chinese-checkers-board.glb",
     "models/chinese-checkers-board.meta.json",
     "models/chinese-checkers-marble-black.glb",
@@ -194,6 +195,19 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-09-22T22:22:29.250Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-9ca582e7-0ae5-410e-8c16-530719d8579b",
+      "paths": [
+        "models/chinese-checkers-board.collider.glb"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-23T05:46:49.690Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-23T05:46:49.690Z",
         "signedName": "Matt Larson"
       }
     }
