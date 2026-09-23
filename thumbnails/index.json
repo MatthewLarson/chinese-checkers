@@ -116,6 +116,42 @@
       "width": 256,
       "height": 144
     },
+    "media/screenshot-1.webp": {
+      "inputHash": "33a6f3c45e470e68",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-2.webp": {
+      "inputHash": "c587c0669fd67121",
+      "file": "thumbnails/media/screenshot-2.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-3.webp": {
+      "inputHash": "964563934e572dd7",
+      "file": "thumbnails/media/screenshot-3.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-4.webp": {
+      "inputHash": "69d779066f1cd0cf",
+      "file": "thumbnails/media/screenshot-4.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-5.webp": {
+      "inputHash": "1690cfd933918c1f",
+      "file": "thumbnails/media/screenshot-5.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-6.webp": {
+      "inputHash": "e7f29bd595f28a66",
+      "file": "thumbnails/media/screenshot-6.webp.webp",
+      "width": 256,
+      "height": 144
+    },
     "models/chinese-checkers-board.glb": {
       "inputHash": "8d363e2138a7ce14",
       "file": "thumbnails/models/chinese-checkers-board.glb.webp",
