@@ -2,10 +2,11 @@
   "schemaVersion": "1.0",
   "id": "chinese-checkers",
   "name": "Chinese Checkers",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "type": "game-pack",
   "entry": {
-    "setup": "setup.json"
+    "setup": "setup.json",
+    "script": "script.js"
   },
   "assets": [
     "media/cover-thumb.webp",
