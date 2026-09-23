@@ -6,7 +6,13 @@
 
 ---
 
-Chinese Checkers
+## Play Chinese Checkers Online
+
+**Play Chinese Checkers online** on DiceyTable and race your marbles across the iconic six-pointed star. Each player starts with a set of colored marbles and tries to be the first to move every one into the triangle directly opposite their starting position. Chinese Checkers is easy to learn, supports multiple players, and turns a simple race across the board into a game of clever positioning and route planning.
+
+On each turn, move one marble to an adjacent empty space or **jump over another marble** into the empty space directly beyond it. Jumps can pass over your own or an opponent's marbles, and when another legal jump is available, you can keep the same marble moving through a whole **chain of jumps** in a single turn. Nothing is captured, so the growing mix of colorful marbles in the center becomes a network of potential shortcuts for everyone.
+
+Whether you're planning a perfect jump sequence, creating paths for the marbles still behind, or racing an opponent to the final open space, **Chinese Checkers** combines colorful multiplayer fun with surprisingly deep strategy. Jump into a game on **DiceyTable**, find the fastest route across the star, and be the first player to bring all your marbles home.
 
 ---
 

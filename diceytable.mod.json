@@ -2,16 +2,13 @@
   "schemaVersion": "1.0",
   "id": "chinese-checkers",
   "name": "Chinese Checkers",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
     "script": "script.js"
   },
   "assets": [
-    "media/cover-thumb.webp",
-    "media/cover.webp",
-    "media/screenshot-0.webp",
     "models/chinese-checkers-board.collider.glb",
     "models/chinese-checkers-board.glb",
     "models/chinese-checkers-board.meta.json",
@@ -52,7 +49,7 @@
   ],
   "slug": "chinese-checkers",
   "summary": "Chinese Checkers",
-  "description": "Chinese Checkers",
+  "description": "## Play Chinese Checkers Online\n\n**Play Chinese Checkers online** on DiceyTable and race your marbles across the iconic six-pointed star. Each player starts with a set of colored marbles and tries to be the first to move every one into the triangle directly opposite their starting position. Chinese Checkers is easy to learn, supports multiple players, and turns a simple race across the board into a game of clever positioning and route planning.\n\nOn each turn, move one marble to an adjacent empty space or **jump over another marble** into the empty space directly beyond it. Jumps can pass over your own or an opponent's marbles, and when another legal jump is available, you can keep the same marble moving through a whole **chain of jumps** in a single turn. Nothing is captured, so the growing mix of colorful marbles in the center becomes a network of potential shortcuts for everyone.\n\nWhether you're planning a perfect jump sequence, creating paths for the marbles still behind, or racing an opponent to the final open space, **Chinese Checkers** combines colorful multiplayer fun with surprisingly deep strategy. Jump into a game on **DiceyTable**, find the fastest route across the star, and be the first player to bring all your marbles home.",
   "category": "checkers-draughts",
   "players": {
     "min": 2,
@@ -60,29 +57,10 @@
   },
   "credits": [
     {
-      "id": "credit-937b6645-545d-4ffb-b1a1-918257e13457",
-      "paths": [
-        "media/screenshot-0.webp"
-      ],
-      "origin": "own-work",
-      "recordedAt": "2026-09-22T17:50:36.157Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-22T17:50:36.157Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
       "id": "credit-d8d6a28f-69c2-4a33-a4fc-e76c1ae8feb2",
       "paths": [
         "models/chinese-checkers-board.glb",
-        "models/chinese-checkers-board.meta.json",
-        "textures/chinese-checkers-board/bl-leather-metallic-bl-leather-roughness-173b57ff.jpg",
-        "textures/chinese-checkers-board/bl-leather-normal-9857f1c2.jpg",
-        "textures/chinese-checkers-board/leather-basecolor-rgb2-03c2e113.jpg",
-        "textures/chinese-checkers-board/wood008-4k-jpg-color-52704a95.jpg",
-        "textures/chinese-checkers-board/wood008-4k-jpg-normalgl-619789a1.jpg",
-        "textures/chinese-checkers-board/wood008-4k-jpg-roughness-df1dd6f1.jpg"
+        "models/chinese-checkers-board.meta.json"
       ],
       "origin": "own-work",
       "title": "Chinese Checkers Board",
@@ -94,124 +72,124 @@
       }
     },
     {
-      "id": "credit-ef845d03-be14-4cad-aa4c-efe40658ea18",
+      "id": "credit-6955a2ec-cf9f-4b4a-af60-c57817fbb27c",
       "paths": [
+        "models/chinese-checkers-marble-yellow.glb",
+        "models/chinese-checkers-marble-yellow.meta.json",
+        "models/chinese-checkers-marble-red.glb",
+        "models/chinese-checkers-marble-red.meta.json",
+        "models/chinese-checkers-marble-orange.glb",
+        "models/chinese-checkers-marble-orange.meta.json",
+        "models/chinese-checkers-marble-green.glb",
+        "models/chinese-checkers-marble-green.meta.json",
+        "models/chinese-checkers-marble-blue.glb",
+        "models/chinese-checkers-marble-blue.meta.json",
         "models/chinese-checkers-marble-black.glb",
         "models/chinese-checkers-marble-black.meta.json"
       ],
       "origin": "own-work",
       "title": "Chinese Checkers Marbles",
-      "recordedAt": "2026-09-22T22:20:34.643Z",
+      "recordedAt": "2026-09-23T14:45:19.668Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-22T22:20:34.643Z",
+        "acceptedAt": "2026-09-23T14:45:19.668Z",
         "signedName": "Matt Larson"
       }
     },
     {
-      "id": "credit-08c706e6-4656-49ae-ae05-02500cbf0d61",
+      "id": "credit-0ba886f4-c95a-4b73-9cda-8f97c5868d50",
       "paths": [
-        "models/chinese-checkers-marble-blue.glb",
-        "models/chinese-checkers-marble-blue.meta.json"
-      ],
-      "origin": "own-work",
-      "title": "Chinese Checkers Marbles",
-      "recordedAt": "2026-09-22T22:21:43.274Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-22T22:21:43.274Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
-      "id": "credit-7bdb01b1-e7a4-4f72-945f-57fbcd3496c7",
-      "paths": [
-        "models/chinese-checkers-marble-green.glb",
-        "models/chinese-checkers-marble-green.meta.json"
-      ],
-      "origin": "own-work",
-      "title": "Chinese Checkers Marbles",
-      "recordedAt": "2026-09-22T22:21:52.828Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-22T22:21:52.828Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
-      "id": "credit-a0e83fd4-5d0d-4155-ba50-5757d566f67a",
-      "paths": [
-        "models/chinese-checkers-marble-orange.glb",
-        "models/chinese-checkers-marble-orange.meta.json"
-      ],
-      "origin": "own-work",
-      "title": "Chinese Checkers Marbles",
-      "recordedAt": "2026-09-22T22:22:05.110Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-22T22:22:05.110Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
-      "id": "credit-9042bdda-d025-4ea6-9cc7-8b28234ad81e",
-      "paths": [
-        "models/chinese-checkers-marble-red.glb",
-        "models/chinese-checkers-marble-red.meta.json"
-      ],
-      "origin": "own-work",
-      "title": "Chinese Checkers Marbles",
-      "recordedAt": "2026-09-22T22:22:17.932Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-22T22:22:17.932Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
-      "id": "credit-6955a2ec-cf9f-4b4a-af60-c57817fbb27c",
-      "paths": [
-        "models/chinese-checkers-marble-yellow.glb",
-        "models/chinese-checkers-marble-yellow.meta.json"
-      ],
-      "origin": "own-work",
-      "title": "Chinese Checkers Marbles",
-      "recordedAt": "2026-09-22T22:22:29.250Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-22T22:22:29.250Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
-      "id": "credit-9ca582e7-0ae5-410e-8c16-530719d8579b",
-      "paths": [
-        "models/chinese-checkers-board.collider.glb"
-      ],
-      "origin": "own-work",
-      "recordedAt": "2026-09-23T05:46:49.690Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-23T05:46:49.690Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
-      "id": "credit-dfed2dd8-3410-4bda-9256-e0a82d4c7dd6",
-      "paths": [
+        "media/screenshot-6.webp",
+        "media/screenshot-5.webp",
+        "media/screenshot-4.webp",
+        "media/screenshot-3.webp",
+        "media/screenshot-2.webp",
+        "media/screenshot-1.webp",
         "media/cover-thumb.webp",
-        "media/cover.webp"
+        "media/cover.webp",
+        "models/chinese-checkers-board.collider.glb",
+        "media/screenshot-0.webp"
       ],
       "origin": "own-work",
-      "recordedAt": "2026-09-23T06:29:54.263Z",
+      "title": "Chinese Checkers Mod Images",
+      "recordedAt": "2026-09-23T14:44:24.910Z",
       "attestation": {
         "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-23T06:29:54.263Z",
+        "acceptedAt": "2026-09-23T14:44:24.910Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-e6dab9ed-4b42-40bb-bb98-01c4026e471c",
+      "paths": [
+        "textures/chinese-checkers-board/wood008-4k-jpg-color-52704a95.jpg",
+        "textures/chinese-checkers-board/wood008-4k-jpg-normalgl-619789a1.jpg",
+        "textures/chinese-checkers-board/wood008-4k-jpg-roughness-df1dd6f1.jpg"
+      ],
+      "origin": "third-party",
+      "title": "Dark Walnut Wood",
+      "creator": "KID",
+      "creatorUrl": "https://www.blendkit.com/?query=author_id:1763948",
+      "sourceUrl": "https://www.blendkit.com/asset-gallery-detail/51df8fb4-7fff-4dd8-846b-e4ef09fa31be/",
+      "licenseName": "Royalty Free",
+      "licenseUrl": "https://www.blendkit.com/docs/licenses/",
+      "recordedAt": "2026-09-23T14:47:28.891Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-23T14:47:28.891Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-d2028793-44a0-4c82-b70f-5d877e774109",
+      "paths": [
+        "textures/chinese-checkers-board/bl-leather-metallic-bl-leather-roughness-173b57ff.jpg",
+        "textures/chinese-checkers-board/bl-leather-normal-9857f1c2.jpg",
+        "textures/chinese-checkers-board/leather-basecolor-rgb2-03c2e113.jpg"
+      ],
+      "origin": "third-party",
+      "title": "Black Fine-Grain Leather",
+      "creator": "RADHUNANDAN",
+      "creatorUrl": "https://www.blendkit.com/?query=author_id:1251005",
+      "sourceUrl": "https://www.blendkit.com/asset-gallery-detail/c4831b57-6fc1-4ee0-bcef-0c39dec1a300/",
+      "licenseName": "Royalty Free",
+      "licenseUrl": "https://www.blendkit.com/docs/licenses/https://www.blendkit.com/docs/licenses/",
+      "recordedAt": "2026-09-23T14:48:58.757Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-23T14:48:58.757Z",
         "signedName": "Matt Larson"
       }
     }
   ],
   "screenshots": [
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0005313496280551222,
+        "w": 1,
+        "h": 0.9994686503719449
+      }
+    },
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      }
+    },
+    {
+      "path": "media/screenshot-3.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      }
+    },
     {
       "path": "media/screenshot-0.webp",
       "crop": {
@@ -220,7 +198,68 @@
         "w": 1,
         "h": 0.7500000000000001
       }
+    },
+    {
+      "path": "media/screenshot-4.webp",
+      "crop": {
+        "x": 0.045300938064440965,
+        "y": 0,
+        "w": 0.9093981238711181,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-5.webp",
+      "crop": {
+        "x": 0.04550765276317331,
+        "y": 0,
+        "w": 0.9089846944736534,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-6.webp",
+      "crop": {
+        "x": 0.045642730108749585,
+        "y": 0,
+        "w": 0.9087145397825008,
+        "h": 1
+      }
     }
   ],
-  "coverImage": "media/cover.webp"
+  "coverImage": "media/cover.webp",
+  "rules": [
+    {
+      "kind": "video",
+      "id": "video",
+      "title": "How to Play Chinese Checkers",
+      "video": {
+        "provider": "youtube",
+        "id": "x8E3-vxYAY0"
+      }
+    },
+    {
+      "kind": "markdown",
+      "id": "rules",
+      "title": "Chinese Checkers Rules",
+      "path": "rules/rules.md"
+    },
+    {
+      "kind": "link",
+      "id": "link",
+      "title": "The Rules of Chinese Checkers",
+      "url": "https://www.mastersofgames.com/rules/chinese-checkers-rules.htm"
+    }
+  ],
+  "excludedAssets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
+    "media/screenshot-3.webp",
+    "media/screenshot-4.webp",
+    "media/screenshot-5.webp",
+    "media/screenshot-6.webp"
+  ]
 }
