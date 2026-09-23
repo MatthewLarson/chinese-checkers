@@ -1,9 +1,12 @@
 {
   "kind": "token",
   "material": "tile",
+  "spawnHeight": 0,
+  "faceDown": false,
   "materialSlots": {
     "Marble_Black": "mat-b81cc4f5-6386-41bb-b11d-7b4c68bdd9b2"
   },
+  "originAuthored": true,
   "mass": 0.13,
   "friction": 0.7,
   "restitution": 0.15,
@@ -14,9 +17,33 @@
     "entries": [
       {
         "id": "collider-1",
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
         "shape": "sphere",
-        "radius": 0.022965895012021065
+        "radius": 0.02296589166666667
       }
     ]
+  },
+  "containerInterior": {
+    "shape": "box",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "size": {
+      "x": 0.001,
+      "y": 0.001,
+      "z": 0.001
+    },
+    "fillLevel": 0.03
   }
 }
