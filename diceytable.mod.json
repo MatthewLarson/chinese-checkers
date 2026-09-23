@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "chinese-checkers",
   "name": "Chinese Checkers",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json"
@@ -13,7 +13,6 @@
     "media/screenshot-0.webp",
     "models/chinese-checkers-board.glb",
     "models/chinese-checkers-board.meta.json",
-    "models/chinese-checkers-board.prefab.json",
     "models/chinese-checkers-marble-black.glb",
     "models/chinese-checkers-marble-black.meta.json",
     "models/chinese-checkers-marble-blue.glb",

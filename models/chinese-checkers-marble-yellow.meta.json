@@ -1,7 +1,11 @@
 {
-  "materialSlots": {
-    "Marble_Yellow": "mat-9f46771b-5a1c-43e9-926a-d21863c0747a"
-  },
+  "kind": "token",
+  "material": "tile",
+  "mass": 0.13,
+  "friction": 0.7,
+  "restitution": 0.15,
+  "linearDamping": 0.1,
+  "angularDamping": 0.2,
   "collider": {
     "mode": "custom",
     "entries": [
