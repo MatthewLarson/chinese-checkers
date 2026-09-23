@@ -15,6 +15,18 @@
         },
         "shape": "mesh",
         "source": "render"
+      },
+      {
+        "id": "collider-2",
+        "offset": {
+          "x": 0,
+          "y": 0.02623425,
+          "z": 0
+        },
+        "shape": "cylinder",
+        "radius": 0.6397637724876404,
+        "height": 0.05296850833333333,
+        "axis": 1
       }
     ]
   }
