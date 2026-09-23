@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "chinese-checkers",
   "name": "Chinese Checkers",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -58,22 +58,7 @@
     "min": 2,
     "max": 6
   },
-  "coverImage": "media/cover.webp",
   "credits": [
-    {
-      "id": "credit-bb9a0951-2021-4a35-a717-0ab7b14680b5",
-      "paths": [
-        "media/cover-thumb.webp",
-        "media/cover.webp"
-      ],
-      "origin": "own-work",
-      "recordedAt": "2026-09-22T17:50:23.492Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-22T17:50:23.492Z",
-        "signedName": "Matt Larson"
-      }
-    },
     {
       "id": "credit-937b6645-545d-4ffb-b1a1-918257e13457",
       "paths": [
@@ -210,6 +195,20 @@
         "acceptedAt": "2026-09-23T05:46:49.690Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-dfed2dd8-3410-4bda-9256-e0a82d4c7dd6",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-23T06:29:54.263Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-23T06:29:54.263Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "screenshots": [
@@ -222,5 +221,6 @@
         "h": 0.7500000000000001
       }
     }
-  ]
+  ],
+  "coverImage": "media/cover.webp"
 }
