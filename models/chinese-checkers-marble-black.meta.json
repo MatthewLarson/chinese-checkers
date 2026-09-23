@@ -1,7 +1,14 @@
 {
+  "kind": "token",
+  "material": "tile",
   "materialSlots": {
     "Marble_Black": "mat-b81cc4f5-6386-41bb-b11d-7b4c68bdd9b2"
   },
+  "mass": 0.13,
+  "friction": 0.7,
+  "restitution": 0.15,
+  "linearDamping": 1,
+  "angularDamping": 1,
   "collider": {
     "mode": "custom",
     "entries": [
