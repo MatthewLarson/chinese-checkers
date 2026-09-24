@@ -1,6 +1,11 @@
 {
   "kind": "token",
   "material": "tile",
+  "scale": {
+    "x": 2,
+    "y": 2,
+    "z": 2
+  },
   "spawnHeight": 0,
   "faceDown": false,
   "materialSlots": {
@@ -8,10 +13,10 @@
   },
   "originAuthored": true,
   "mass": 0.13,
-  "friction": 0.7,
+  "friction": 0.9,
   "restitution": 0.15,
-  "linearDamping": 1,
-  "angularDamping": 1,
+  "linearDamping": 0.9,
+  "angularDamping": 0.9,
   "collider": {
     "mode": "custom",
     "entries": [

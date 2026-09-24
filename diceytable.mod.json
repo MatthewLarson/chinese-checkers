@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "chinese-checkers",
   "name": "Chinese Checkers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -82,8 +82,6 @@
         "models/chinese-checkers-marble-orange.meta.json",
         "models/chinese-checkers-marble-green.glb",
         "models/chinese-checkers-marble-green.meta.json",
-        "models/chinese-checkers-marble-blue.glb",
-        "models/chinese-checkers-marble-blue.meta.json",
         "models/chinese-checkers-marble-black.glb",
         "models/chinese-checkers-marble-black.meta.json"
       ],
@@ -160,9 +158,32 @@
         "acceptedAt": "2026-09-23T14:48:58.757Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-73309ffa-bef9-476a-a345-22e2429ad71a",
+      "paths": [
+        "models/chinese-checkers-marble-blue.glb",
+        "models/chinese-checkers-marble-blue.meta.json"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-24T14:39:54.621Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-24T14:39:54.621Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.1861620421803325,
+        "w": 1,
+        "h": 0.7500000000000001
+      }
+    },
     {
       "path": "media/screenshot-1.webp",
       "crop": {
@@ -188,15 +209,6 @@
         "y": 0.0002656748140275611,
         "w": 1,
         "h": 0.9994686503719449
-      }
-    },
-    {
-      "path": "media/screenshot-0.webp",
-      "crop": {
-        "x": 0,
-        "y": 0.1861620421803325,
-        "w": 1,
-        "h": 0.7500000000000001
       }
     },
     {
@@ -261,5 +273,25 @@
     "media/screenshot-4.webp",
     "media/screenshot-5.webp",
     "media/screenshot-6.webp"
+  ],
+  "dice": [
+    {
+      "preset": "die-d4"
+    },
+    {
+      "preset": "die-d6"
+    },
+    {
+      "preset": "die-d8"
+    },
+    {
+      "preset": "die-d10"
+    },
+    {
+      "preset": "die-d12"
+    },
+    {
+      "preset": "die-d20"
+    }
   ]
 }
